@@ -1,0 +1,4 @@
+F:\University Code Work\Year 4\Hons\OpenTKtest\OpenTKTest\OpenTKTest\obj\Debug\OpenTKTest.csprojAssemblyReference.cache
+F:\University Code Work\Year 4\Hons\OpenTKtest\OpenTKTest\OpenTKTest\obj\Debug\OpenTKTest.Properties.Resources.resources
+F:\University Code Work\Year 4\Hons\OpenTKtest\OpenTKTest\OpenTKTest\obj\Debug\OpenTKTest.csproj.GenerateResource.cache
+F:\University Code Work\Year 4\Hons\OpenTKtest\OpenTKTest\OpenTKTest\obj\Debug\OpenTKTest.csproj.CoreCompileInputs.cache
